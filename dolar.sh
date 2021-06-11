@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#rodrigo
 pega(){
    site='https://statusinvest.com.br/'
    wget "$site$2$1" 1> /dev/null 2>&1
